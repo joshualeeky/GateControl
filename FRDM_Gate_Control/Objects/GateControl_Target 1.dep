@@ -1,0 +1,70 @@
+Dependencies for Project 'GateControl', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\Src\esp32.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\esp32.o --omf_browse .\objects\esp32.crf --depend .\objects\esp32.d)
+F (.\Src\ir_BoseWave.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_bosewave.o --omf_browse .\objects\ir_bosewave.crf --depend .\objects\ir_bosewave.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Denon.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_denon.o --omf_browse .\objects\ir_denon.crf --depend .\objects\ir_denon.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Dish.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_dish.o --omf_browse .\objects\ir_dish.crf --depend .\objects\ir_dish.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_JVC.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_jvc.o --omf_browse .\objects\ir_jvc.crf --depend .\objects\ir_jvc.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Lego_PF.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_lego_pf.o --omf_browse .\objects\ir_lego_pf.crf --depend .\objects\ir_lego_pf.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Lego_PF_BitStreamEncoder.h)(0x5FAD104A)()
+F (.\Src\ir_LG.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_lg.o --omf_browse .\objects\ir_lg.crf --depend .\objects\ir_lg.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_MagiQuest.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_magiquest.o --omf_browse .\objects\ir_magiquest.crf --depend .\objects\ir_magiquest.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_NEC.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_nec.o --omf_browse .\objects\ir_nec.crf --depend .\objects\ir_nec.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Panasonic.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_panasonic.o --omf_browse .\objects\ir_panasonic.crf --depend .\objects\ir_panasonic.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_RC5_RC6.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_rc5_rc6.o --omf_browse .\objects\ir_rc5_rc6.crf --depend .\objects\ir_rc5_rc6.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Samsung.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_samsung.o --omf_browse .\objects\ir_samsung.crf --depend .\objects\ir_samsung.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Sanyo.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_sanyo.o --omf_browse .\objects\ir_sanyo.crf --depend .\objects\ir_sanyo.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Sharp.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_sharp.o --omf_browse .\objects\ir_sharp.crf --depend .\objects\ir_sharp.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Sharp_alt.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_sharp_alt.o --omf_browse .\objects\ir_sharp_alt.crf --depend .\objects\ir_sharp_alt.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Sony.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_sony.o --omf_browse .\objects\ir_sony.crf --depend .\objects\ir_sony.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Template.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_template.o --omf_browse .\objects\ir_template.crf --depend .\objects\ir_template.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\ir_Whynter.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\ir_whynter.o --omf_browse .\objects\ir_whynter.crf --depend .\objects\ir_whynter.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\irPronto.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\irpronto.o --omf_browse .\objects\irpronto.crf --depend .\objects\irpronto.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\irReceive.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\irreceive.o --omf_browse .\objects\irreceive.crf --depend .\objects\irreceive.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\IRremote.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\irremote.o --omf_browse .\objects\irremote.crf --depend .\objects\irremote.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\IRremote.h)(0x5FAD104A)()
+F (.\Src\irSend.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\irsend.o --omf_browse .\objects\irsend.crf --depend .\objects\irsend.d)
+I (Src\IRremote.h)(0x5FAD104A)
+I (Src\private/IRremoteInt.h)(0x5FAD104A)
+F (.\Src\nRF5.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\nrf5.o --omf_browse .\objects\nrf5.crf --depend .\objects\nrf5.d)
+F (.\Src\sam.cpp)(0x5FAD104A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Joshua\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DMKL25Z128xxx4-o .\objects\sam.o --omf_browse .\objects\sam.crf --depend .\objects\sam.d)
